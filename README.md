@@ -1,4 +1,4 @@
-Caso queria, tem uma versão pt_BR <a href="https://github.com/andreltk/andreltk/README-pt_BR.md">aqui</a>
+Caso queria, tem uma versão pt_BR <a href="https://github.com/andreltk/andreltk/blob/main/README-pt_BR.md">aqui</a>
 
 <h2> Hi there, my name is André Luiz.</h2>
 
