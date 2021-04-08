@@ -8,9 +8,8 @@ Caso queria, tem uma versão pt_BR <a href="https://github.com/andreltk/andreltk
 - 🎓 &nbsp; BCompSc in Federal University of Goiás
 - 💼 &nbsp; Currently working as a freelancer
 - 🌱 &nbsp; Learning more about A.I., Cloud and Systems.
-<h3> 🛠 &nbsp; Tech Stack</h3>
 
-<h3> 🛠 &nbsp;Tecnologias que mais domino:</h3>
+<h3>&nbsp; Tech Stack</h3>
 
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -30,8 +29,7 @@ Caso queria, tem uma versão pt_BR <a href="https://github.com/andreltk/andreltk
 
 
 <br/>
-<h3> 📋 &nbsp;Coisas que Quero Aprender:</h3>
-
+<h3> &nbsp;Techs I Want to Learn:</h3>
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=FFFFFF)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F7DF1E)
